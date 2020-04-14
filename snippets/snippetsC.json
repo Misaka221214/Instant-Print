@@ -2,7 +2,7 @@
     "printer":{
         "prefix": "!p",
         "body": [
-            "printf(\"snippets created\");"
+            "printf(\"At Line $TM_LINE_NUMBER: snippets created\");"
         ],
         "description": "Creates print statement for C"
     }

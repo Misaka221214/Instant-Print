@@ -2,7 +2,7 @@
     "printer":{
         "prefix": "!p",
         "body": [
-            "System.out.println(\"snippets created\");"
+            "System.out.println(\"At Line $TM_LINE_NUMBER: snippets created\");"
         ],
         "description": "Creates print statement for java"
     }
