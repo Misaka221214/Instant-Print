@@ -1,0 +1,9 @@
+{
+    "printer":{
+        "prefix": "!p",
+        "body": [
+            "System.out.println(\"snippets created\");"
+        ],
+        "description": "Creates print statement for java"
+    }
+}

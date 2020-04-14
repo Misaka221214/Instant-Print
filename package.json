@@ -1,0 +1,37 @@
+{
+    "name": "printer",
+    "displayName": "printer",
+    "description": "simple debugger tool",
+    "version": "0.0.1",
+    "publisher": "Muhan",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "java",
+                "path": "./snippets/snippetsJava.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "c",
+                "path": "./snippets/snippetsC.json"
+            },
+            {
+                "language": "cpp",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "csharp",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}

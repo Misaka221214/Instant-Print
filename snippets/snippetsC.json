@@ -1,0 +1,9 @@
+{
+    "printer":{
+        "prefix": "!p",
+        "body": [
+            "printf(\"snippets created\");"
+        ],
+        "description": "Creates print statement for C"
+    }
+}
