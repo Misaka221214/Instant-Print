@@ -1,9 +1,9 @@
 {
     "name": "printer",
     "displayName": "printer",
-    "description": "simple debugger tool",
+    "description": "A simple debugging tool",
     "version": "0.0.1",
-    "publisher": "Muhan",
+    "publisher": "Muhan and Yifan",
     "engines": {
         "vscode": "^1.44.0"
     },
@@ -18,7 +18,7 @@
             },
             {
                 "language": "javascript",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/snippetsJavascript.json"
             },
             {
                 "language": "c",
@@ -26,11 +26,79 @@
             },
             {
                 "language": "cpp",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/snippetsCpp.json"
             },
             {
                 "language": "csharp",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/snippetsCSharp.json"
+            },
+            {
+                "language": "coffeescript",
+                "path": "./snippets/snippetsJavascript.json"
+            },
+            {
+                "language": "fsharp",
+                "path": "./snippets/snippetsCSharp.json"
+            },
+            {
+                "language": "go",
+                "path": "./snippets/snippetsGo.json"
+            },
+            {
+                "language": "groovy",
+                "path": "./snippets/snippetsGroovy.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippetsJavascript.json"
+            },
+            {
+                "language": "objective-c",
+                "path": "./snippets/snippetsObjC.json"
+            },
+            {
+                "language": "objective-cpp",
+                "path": "./snippets/snippetsObjC.json"
+            },
+            {
+                "language": "perl",
+                "path": "./snippets/snippetsPerl.json"
+            },
+            {
+                "language": "perl6",
+                "path": "./snippets/snippetsPerl.json"
+            },
+            {
+                "language": "php",
+                "path": "./snippets/snippetsPHP.json"
+            },
+            {
+                "language": "python",
+                "path": "./snippets/snippetsPython.json"
+            },
+            {
+                "language": "r",
+                "path": "./snippets/snippetsPython.json"
+            },
+            {
+                "language": "ruby",
+                "path": "./snippets/snippetsGroovy.json"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/snippetsJavascript.json"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/snippetsJavascript.json"
+            },
+            {
+                "language": "rust",
+                "path": "./snippets/snippetsRust.json"
+            },
+            {
+                "language": "swift",
+                "path": "./snippets/snippetsPython.json"
             }
         ]
     }

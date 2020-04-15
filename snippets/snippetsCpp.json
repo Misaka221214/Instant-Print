@@ -1,0 +1,9 @@
+{
+  "printer":{
+    "prefix": "!p",
+    "body": [
+      "std::cout << \"$TM_FILENAME $TM_LINE_NUMBER\" << std::endl;"
+    ],
+    "description": "Creates print statement for C++"
+  }
+}

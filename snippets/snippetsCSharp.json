@@ -1,0 +1,9 @@
+{
+  "printer":{
+    "prefix": "!p",
+    "body": [
+      "Console.WriteLine(\"$TM_FILENAME $TM_LINE_NUMBER\");"
+    ],
+    "description": "Creates print statement for C#"
+  }
+}
