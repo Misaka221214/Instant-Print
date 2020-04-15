@@ -1,7 +1,7 @@
 {
     "name": "printer",
-    "displayName": "printer",
-    "description": "A simple debugging tool",
+    "displayName": "Print Statement Generator",
+    "description": "A simple time saving tool",
     "version": "0.0.1",
     "publisher": "Muhan and Yifan",
     "engines": {
