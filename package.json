@@ -4,6 +4,10 @@
     "description": "A simple time saving tool",
     "version": "0.0.1",
     "publisher": "Muhan and Yifan",
+    "repository": {
+        "type": "Git",
+        "url": "https://github.com/Misaka221214/Printer-Statement-Generator.git"
+    },
     "engines": {
         "vscode": "^1.44.0"
     },
