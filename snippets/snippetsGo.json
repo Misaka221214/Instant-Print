@@ -2,7 +2,7 @@
   "printer":{
     "prefix": "!p",
     "body": [
-      "fmt.Println(\"$TM_FILENAME $TM_LINE_NUMBER\")"
+      "fmt.Println(\"In File: $TM_FILENAME, Line: $TM_LINE_NUMBER\")"
     ],
     "description": "Creates print statement for GO"
   }

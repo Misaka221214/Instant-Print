@@ -2,7 +2,7 @@
     "printer":{
         "prefix": "!p",
         "body": [
-            "printf(\"$TM_FILENAME $TM_LINE_NUMBER\");"
+            "printf(\"In File: $TM_FILENAME, Line: $TM_LINE_NUMBER\");"
         ],
         "description": "Creates print statement for C"
     }

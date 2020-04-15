@@ -2,7 +2,7 @@
   "printer":{
     "prefix": "!p",
     "body": [
-      "console.log(\"$TM_FILENAME $TM_LINE_NUMBER\");"
+      "console.log(\"In File: $TM_FILENAME, Line: $TM_LINE_NUMBER\");"
     ],
     "description": "Creates print statement for JavaScript"
   }

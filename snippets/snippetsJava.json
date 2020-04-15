@@ -2,7 +2,7 @@
     "printer":{
         "prefix": "!p",
         "body": [
-            "System.out.println(\"$TM_FILENAME $TM_LINE_NUMBER\");"
+            "System.out.println(\"In File: $TM_FILENAME, Line: $TM_LINE_NUMBER\");"
         ],
         "description": "Creates print statement for Java"
     }

@@ -2,7 +2,7 @@
   "printer":{
     "prefix": "!p",
     "body": [
-      "echo \"$TM_FILENAME $TM_LINE_NUMBER\";"
+      "echo \"In File: $TM_FILENAME, Line: $TM_LINE_NUMBER\";"
     ],
     "description": "Creates print statement for PHP"
   }
