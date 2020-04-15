@@ -1,4 +1,4 @@
-# Print Statement Generator
+# Print Statement Generator ![icon](./icon.png)
 
 This is a simple print statement generator that will generate a simple print statement in corresponding programming language.
 
