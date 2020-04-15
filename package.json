@@ -2,7 +2,7 @@
     "name": "printer",
     "displayName": "Print Statement Generator",
     "description": "A simple time saving tool",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "Muhan and Yifan",
     "repository": {
         "type": "Git",
