@@ -3,7 +3,7 @@
     "displayName": "Instant Print",
     "description": "A simple time saving tool",
     "version": "1.0.0",
-    "publisher": "Muhan and Yifan",
+    "publisher": "MuhanandYifan",
     "repository": {
         "type": "Git",
         "url": "https://github.com/Misaka221214/Instant-Print"
@@ -11,7 +11,7 @@
     "engines": {
         "vscode": "^1.44.0"
     },
-    "icon": "./icon.png",
+    "icon": "https://raw.githubusercontent.com/Misaka221214/Instant-Print/master/icon.png",
     "categories": [
         "Snippets"
     ],
