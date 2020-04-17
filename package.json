@@ -1,12 +1,12 @@
 {
     "name": "printer",
-    "displayName": "Print Statement Generator",
+    "displayName": "Instant Print",
     "description": "A simple time saving tool",
     "version": "1.0.0",
     "publisher": "Muhan and Yifan",
     "repository": {
         "type": "Git",
-        "url": "https://github.com/Misaka221214/Printer-Statement-Generator.git"
+        "url": "https://github.com/Misaka221214/Instant-Print"
     },
     "engines": {
         "vscode": "^1.44.0"

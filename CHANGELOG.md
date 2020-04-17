@@ -2,6 +2,6 @@
 
 All notable changes to the "printer" extension will be documented in this file.
 
-## [1.0.0] - 2020-04-15
+## [1.0.0] - 2020-04-17
 
 - Initial release

@@ -1,4 +1,4 @@
-# Print Statement Generator
+# Instant Print
 
 This is a simple print statement generator that will generate a simple print statement in corresponding programming language.
 
@@ -9,13 +9,13 @@ ___
 By simply typing out **`!p`** at desired line in your file, this generator will automaticly generate a print statement with current **file name** and **line number** in the current programming language.
 
 ## Java Sample
-![javaPrint](https://raw.githubusercontent.com/Misaka221214/Printer-Statement-Generator/master/javaPrint.gif)
+![javaPrint](https://raw.githubusercontent.com/Misaka221214/Instant-Print/master/javaPrint.gif)
 
 ## C++ Sample
-![cppPrint](https://raw.githubusercontent.com/Misaka221214/Printer-Statement-Generator/master/cppPrint.gif)
+![cppPrint](https://raw.githubusercontent.com/Misaka221214/Instant-Print/master/cppPrint.gif)
 
 ## C Sample
-![cPrint](https://raw.githubusercontent.com/Misaka221214/Printer-Statement-Generator/master/cPrint.gif)
+![cPrint](https://raw.githubusercontent.com/Misaka221214/Instant-Print/master/cPrint.gif)
 
 ## Supported Languages
 
