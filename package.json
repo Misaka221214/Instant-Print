@@ -11,7 +11,7 @@
     "engines": {
         "vscode": "^1.44.0"
     },
-    "icon": "https://raw.githubusercontent.com/Misaka221214/Instant-Print/master/icon.png",
+    "icon": "icon.png",
     "categories": [
         "Snippets"
     ],
